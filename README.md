@@ -61,13 +61,13 @@ Es usado para permitir la creación de una variedad de objetos complejos desde u
 
 
 **Clases:**
-> - Builder:
+> - **Builder:**
 Interfaz abstracta para crear productos.
-> - Concrete Builder:
+> - **Concrete Builder:**
 Implementación del builder, construye y reúne las partes necesarias para construir los productos.
-> - Director:
+> - **Director:**
 Construye un objeto usando el patrón Builder.
-> - Producto:
+> - **Producto:**
 El objeto complejo bajo construcción.
 
 
