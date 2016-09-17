@@ -1,12 +1,12 @@
 # Some information technology definitions
 
-##**Patrones de diseño:**
+##**Patrones de diseño**
 
 
 Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software y otros ámbitos en el diseño de interfaces. Para que una solución sea considerada un patrón debe poseer ciertas características:
 
-> - Efectividad
-> - Ser reutilizable
+> - **Efectividad**
+> - **Ser reutilizable**
 
 
 **Patrón singleton:**
@@ -21,7 +21,7 @@ El patrón **singleton** provee una única instancia global gracias a:
 > - Declara el constructor de clase como privado para que no sea instanciable directamente.
 
 
-**Factory Method**
+**Factory Method:**
 
 
 Consiste en utilizar una clase contructora abstracta con unos cuántos métodos definidos y otros abstractos. La clase abstracta tiene métodos concretos que usan algunos de los abstractos; según usemos una u otra hija de esta clase abstracta, tendremos diferentes comportamientos.
@@ -54,7 +54,7 @@ public class ConcreteProduct implements Product{
 ```
 
 
-**Patrón Builder**
+**Patrón Builder:**
 
 
 Es usado para permitir la creación de una variedad de objetos complejos desde un objeto fuente, éste objeto se compone de una variedad de partes que contribuyen individualmente a la creación de cada objeto complejo a través de un conjunto de llamadas a interfaces comúnes de la clase Builder.
@@ -76,7 +76,7 @@ Es usado para permitir la creación de una variedad de objetos complejos desde u
 ##**¿Qué es ADB en Android?**
 
 
-Android Debut Bridge es una herramienta de software que nos permite interactuar con nuestro smartphone Android desde un ordenador. A través de ADB podemos ejecutar comandos para copiar archivos desde el ordenador al teléfono o viceversa, flashear el firmware completo e incluso reiniciar el dispositivo en modo recovery.
+**Android Debut Bridge** es una herramienta de software que nos permite interactuar con nuestro smartphone Android desde un ordenador. A través de ADB podemos ejecutar comandos para copiar archivos desde el ordenador al teléfono o viceversa, flashear el firmware completo e incluso reiniciar el dispositivo en modo recovery.
 
 
 ##**¿Para que sirve el operador “final” en java?**
