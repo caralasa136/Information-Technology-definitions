@@ -120,3 +120,4 @@ Google ha creado uno de los sistemas de compilación más avanzados del mercado 
 
 
 En informática, inyección de dependencias es un patrón de diseño orientado a objetos, en el que se suministran objetos a una clase en lugar de ser la propia clase quien cree el objeto. El término fue acuñado por primera vez por Martin Fowler.
+Ganamos en la posibilidad de hacer mocking para el testeo automático y ganamos en la posibilidad de reemplazar piezas que cumplan un estándar.
