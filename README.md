@@ -1,6 +1,6 @@
 # Some information technology definitions
 
->**Patrones de diseño:**
+##**Patrones de diseño:**
 
 
 Los patrones de diseño son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software y otros ámbitos en el diseño de interfaces. Para que una solución sea considerada un patrón debe poseer ciertas características:
@@ -72,19 +72,20 @@ Es usado para permitir la creación de una variedad de objetos complejos desde u
 >-El objeto complejo bajo construcción
 
 
->**¿Qué es ADB en Android?**
+
+##**¿Qué es ADB en Android?**
 
 
 Android Debut Bridge es una herramienta de software que nos permite interactuar con nuestro smartphone Android desde un ordenador. A través de ADB podemos ejecutar comandos para copiar archivos desde el ordenador al teléfono o viceversa, flashear el firmware completo e incluso reiniciar el dispositivo en modo recovery.
 
 
->**¿Para que sirve el operador “final” en java?**
+##**¿Para que sirve el operador “final” en java?**
 
 
 Indica que una variable es de tipo constante, no admitirá cambios después de su declaración y asignación de valor. **final** determina que un atributo no puede ser sobrescrito o redefinido, es decir funcionará como una constante.
 
 
->**¿Qué lenguajes soportan la sobrecarga de operadores?**
+##**¿Qué lenguajes soportan la sobrecarga de operadores?**
 
 
 La sobrecarga de operadores es uno de los mecanismos que nos permite ampliar las capacidades de los lenguajes de programación orientados a objetos.
@@ -99,7 +100,7 @@ Algunos lenguajes que soportan ésta característica son:
 Es una herramienta bastante útil.
 
 
->**¿Qué es el Gradle en Android?**
+##**¿Qué es el Gradle en Android?**
 
 
 **Gradle** es una herramienta para automatizar la construcción de nuestros proyectos, por ejemplo las tareas de compilación, testing, empaquetado y el despliegue de los mismos. Es muy flexible para la configuración, pero además ya tiene armadas las tareas para las mayoría de los proyectos por default. Esta herramienta es usado por grandes proyecto **Open Source** como **Spring**, **Hibernate**, y **Grails**. (También lo usan empresas como **LinkedIn** para sus proyectos).
@@ -116,7 +117,7 @@ Google ha creado uno de los sistemas de compilación más avanzados del mercado 
 > - Lo más importante es que hace increíblemente fácil la creación de diferentes versiones de la aplicación, por ejemplo para hacer múltiples versiones para móviles o tables, versiones de pago o gratuitas, etc..
 
 
->**¿Qué es la inyección de dependencias?**
+##**¿Qué es la inyección de dependencias?**
 
 
 En informática, inyección de dependencias es un patrón de diseño orientado a objetos, en el que se suministran objetos a una clase en lugar de ser la propia clase quien cree el objeto. El término fue acuñado por primera vez por Martin Fowler.
