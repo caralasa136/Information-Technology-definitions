@@ -64,8 +64,7 @@ Es usado para permitir la creación de una variedad de objetos complejos desde u
 > - Builder:
 Interfaz abstracta para crear productos.
 > - Concrete Builder:
-Implementación del builder.
-Construye y reúne las partes necesarias para construir los productos.
+Implementación del builder, construye y reúne las partes necesarias para construir los productos.
 > - Director:
 Construye un objeto usando el patrón Builder.
 > - Producto:
